@@ -16,6 +16,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "build": "react-scripts build",
     "prettier": "prettier --ignore-path .gitignore --write \"**/*.+(js|json|ts|tsx|css|html)\"",
     "predeploy": "yarn run build",
     "deploy": "gh-pages -d build"
