@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/issSozluk/static/css/main.31d6cfe0.css",
+    "main.js": "/issSozluk/static/js/main.268b6f8b.js",
+    "index.html": "/issSozluk/index.html",
+    "main.268b6f8b.js.map": "/issSozluk/static/js/main.268b6f8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.268b6f8b.js"
+  ]
+}
