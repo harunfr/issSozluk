@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/issSozluk/static/css/main.31d6cfe0.css",
-    "main.js": "/issSozluk/static/js/main.268b6f8b.js",
+    "main.css": "/issSozluk/static/css/main.c2cab247.css",
+    "main.js": "/issSozluk/static/js/main.f73a23e4.js",
     "index.html": "/issSozluk/index.html",
-    "main.268b6f8b.js.map": "/issSozluk/static/js/main.268b6f8b.js.map"
+    "main.c2cab247.css.map": "/issSozluk/static/css/main.c2cab247.css.map",
+    "main.f73a23e4.js.map": "/issSozluk/static/js/main.f73a23e4.js.map"
   },
   "entrypoints": [
-    "static/css/main.31d6cfe0.css",
-    "static/js/main.268b6f8b.js"
+    "static/css/main.c2cab247.css",
+    "static/js/main.f73a23e4.js"
   ]
 }
